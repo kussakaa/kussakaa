@@ -7,7 +7,7 @@
         <tr>
             <td width="50" height="50" align="center">
                 <a>
-                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+                    <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg">
                     Rust
                 </a>
             </td>
