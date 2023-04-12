@@ -17,6 +17,12 @@
                     Git
                 </a>
             </td>
+            <td width="50" height="50" align="center">
+                <a>
+                    <img src="https://www.sublimehq.com/images/sublime_text.png">
+                    Sublime
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
