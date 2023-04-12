@@ -1,16 +1,22 @@
-### Hi there 👋
+- Я рыба
 
-<!--
-**kussakaa/kussakaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Использую для написания говна
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+    <tbody>
+        <tr>
+            <td width="50" height="50" align="center">
+                <a>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg">
+                    Rust
+                </a>
+            </td>
+            <td width="50" height="50" align="center">
+                <a>
+                    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+                    Git
+                </a>
+            </td>
+        </tr>
+    </tbody>
+</table>
