@@ -19,6 +19,8 @@
             </td>
             <td width="64" height="64" align="center">
                 <a>
+                    <img src="https://www.sublimetext.com/images/logo.svg">
+                    Sublime
                 </a>
             </td>
         </tr>
